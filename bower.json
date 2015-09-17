@@ -1,0 +1,26 @@
+{
+  "name": "fit-screen.js",
+  "main": "fit-screen.min.js",
+  "version": "1.0.0",
+  "authors": [
+    "Shane Gadsby <schem16@gmail.com>"
+  ],
+  "description": "Helps autoscale your webpage dependent on your device and your desired minimum width",
+  "keywords": [
+    "viewport",
+    "scale",
+    "automagic",
+    "viewport",
+    "fit",
+    "screen",
+    "fitscreen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
